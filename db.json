@@ -2,12 +2,7 @@
   "posts": [
     {
       "id": 1,
-      "user_id": [
-      {
-        "name": "ali saleem"
-        "profile_pic": "sample-2"
-      }
-      ],
+      "user_id": 2,
       "post_text": "hello this is my first post",
       "post_image": "hello",
       "num_of_likes": 0,
@@ -15,11 +10,8 @@
       "time": "December 27, 2022"
     },
     {
-      "id": 2,
-      "user_id": [{
-        "name": "ali saleem"
-        "profile_pic": "sample-2"
-      }],
+      "id": 1,
+      "user_id": 2,
       "post_text": "hello this is my first post",
       "post_image": "hello",
       "num_of_likes": 0,
@@ -27,11 +19,8 @@
       "time": "December 27, 2022"
     },
     {
-     "id": 3,
-      "user_id": [{
-        "name": "ali saleem"
-        "profile_pic": "sample-2"
-      }],
+     "id": 1,
+      "user_id": 2,
       "post_text": "hello this is my first post",
       "post_image": "hello",
       "num_of_likes": 0,
