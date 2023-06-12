@@ -1,22 +1,31 @@
 {
-  "books": [
+  "posts": [
     {
       "id": 1,
-      "title": "The Great Gatsby",
-      "author": "F. Scott Fitzgerald",
-      "publication_year": 1925
+      "user_id": 1,
+      "post_text": "hello this is my first post",
+      "post_image": "hello",
+      "num_of_likes": 0,
+      "num_of_dislikes": 0,
+      "time": "December 27, 2022"
     },
     {
       "id": 2,
-      "title": "To Kill a Mockingbird",
-      "author": "Harper Lee",
-      "publication_year": 1960
+      "user_id": 1,
+      "post_text": "hello this is my first post",
+      "post_image": "hello",
+      "num_of_likes": 0,
+      "num_of_dislikes": 0,
+      "time": "December 27, 2022"
     },
     {
-      "id": 3,
-      "title": "1984",
-      "author": "George Orwell",
-      "publication_year": 1949
+     "id": 3,
+      "user_id": 1,
+      "post_text": "hello this is my first post",
+      "post_image": "hello",
+      "num_of_likes": 0,
+      "num_of_dislikes": 0,
+      "time": "December 27, 2022"
     }
   ]
 }
